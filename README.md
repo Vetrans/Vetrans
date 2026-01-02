@@ -78,9 +78,16 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vetrans&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vetrans&theme=github-dark&hide_border=true" height="160"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=vetrans&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
+    height="160"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=vetrans&theme=github-dark&hide_border=true"
+    height="160"
+  />
 </p>
+
 
 ---
 
