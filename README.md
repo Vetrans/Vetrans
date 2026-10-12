@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://i.postimg.cc/8zJvgcM6/Whats-App-Image-2026-01-02-at-11-57-02-PM.jpg" width="140" style="border-radius:50%" alt="Rishi" />
-
 # Hi, I'm Rishi 👋
 
 **Full-stack developer · AI/ML explorer · Builder**
