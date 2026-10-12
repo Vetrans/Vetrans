@@ -26,25 +26,6 @@ I'm an IT student who likes knowing how things work under the hood, then buildin
 - 💬 **Ask me about:** JavaScript, React, Node.js, Python, SQL
 - 📫 **Reach me:** [hrishabh.dubeyoswal@gmail.com](mailto:hrishabh.dubeyoswal@gmail.com)
 
----
-
-## 🚀 Featured Project
-
-### [Project-LOOP](https://github.com/Vetrans/Project-LOOP)
-An AI-powered customer feedback intelligence platform. Teams can analyze feedback, surface sentiment and recurring themes, and chat with the insights instead of digging through raw text.
-
-| | |
-|---|---|
-| **Frontend** | React |
-| **Backend** | Node.js, Express, MongoDB |
-| **AI service** | FastAPI, Claude API |
-
-<!-- Add 1-2 more projects here in the same format. Even small ones count: one line on what it does + stack + link. -->
-
-More on my [repositories page](https://github.com/Vetrans?tab=repositories).
-
----
-
 ## 🛠️ Tech Stack
 
 | | |
