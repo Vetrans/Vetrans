@@ -1,118 +1,80 @@
-<!-- HERO SECTION -->
+<div align="center">
 
-<h1 align="center">Hi, I'm Rishi 👋</h1>
+<img src="https://i.postimg.cc/8zJvgcM6/Whats-App-Image-2026-01-02-at-11-57-02-PM.jpg" width="140" style="border-radius:50%" alt="Rishi" />
 
-<h3 align="center">Software Developer | Full-Stack Development | AI/ML Enthusiast</h3>
+# Hi, I'm Rishi 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Real-World+Applications;Exploring+AI%2FML+%26+LLMs;Learning+Backend+Engineering;Turning+Ideas+Into+Working+Products" alt="Typing SVG" />
-</p>
+**Full-stack developer · AI/ML explorer · Builder**
 
-<p align="center">
-  <img src="https://i.postimg.cc/8zJvgcM6/Whats-App-Image-2026-01-02-at-11-57-02-PM.jpg" width="180" alt="Rishi's profile picture" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=560&lines=Building+real-world+applications;Exploring+LLMs+%26+AI-powered+apps;Learning+backend+%26+system+design;Turning+ideas+into+working+products" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://github.com/Vetrans">
-    <img src="https://komarev.com/ghpvc/?username=Vetrans&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile views" />
-  </a>
-</p>
+<a href="https://linkedin.com/in/hrishabh3002"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://twitter.com/hrishabhdu26536"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://leetcode.com/u/rishi"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="mailto:hrishabh.dubeyoswal@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=Vetrans&label=Views&color=58A6FF&style=flat-square" alt="Profile views" />
+
+</div>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About
 
-I'm a B.Sc. IT student interested in software engineering, full-stack development, and applied AI. I enjoy understanding how things work under the hood and building applications that solve real problems.
+I'm an IT student who likes knowing how things work under the hood, then building something real with it. I learn mostly by shipping projects, breaking them, and reading the docs to fix them.
 
-- 🎓 Pursuing B.Sc. Information Technology
-- 💻 Building full-stack web applications and backend systems
-- 🤖 Exploring AI/ML, LLMs, and AI-powered applications
-- 🌱 Continuously improving my problem-solving and software engineering skills
-- 🔐 Interested in authentication, application security, APIs, and system design
-- 🧩 Learning by building projects, experimenting, and reading documentation
-- 💬 Ask me about JavaScript, React, Node.js, Python, and SQL
-- 📫 Reach me at **[hrishabh.dubeyoswal@gmail.com](mailto:hrishabh.dubeyoswal@gmail.com)**
+- 🔭 **Building:** full-stack web apps and backend systems
+- 🤖 **Exploring:** LLMs and AI-powered products
+- 🔐 **Into:** auth, API design, application security, system design
+- 💬 **Ask me about:** JavaScript, React, Node.js, Python, SQL
+- 📫 **Reach me:** [hrishabh.dubeyoswal@gmail.com](mailto:hrishabh.dubeyoswal@gmail.com)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-### 🔹 Project-LOOP
-An AI-powered customer feedback intelligence platform designed to help teams analyze feedback, identify sentiment and themes, and interact with insights through AI.
+### [Project-LOOP](https://github.com/Vetrans/Project-LOOP)
+An AI-powered customer feedback intelligence platform. Teams can analyze feedback, surface sentiment and recurring themes, and chat with the insights instead of digging through raw text.
 
-**Tech:** React, Node.js, Express, MongoDB, FastAPI, Claude AI
+| | |
+|---|---|
+| **Frontend** | React |
+| **Backend** | Node.js, Express, MongoDB |
+| **AI service** | FastAPI, Claude API |
 
-🔗 [Explore Project-LOOP](https://github.com/Vetrans/Project-LOOP)
+<!-- Add 1-2 more projects here in the same format. Even small ones count: one line on what it does + stack + link. -->
 
-### 🔹 Explore More Projects
-
-Check out my repositories for web applications, programming experiments, and projects focused on expanding my software development skills.
-
-🔗 [View All Repositories](https://github.com/Vetrans?tab=repositories)
+More on my [repositories page](https://github.com/Vetrans?tab=repositories).
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css" alt="Python, JavaScript, C++, HTML and CSS" />
-</p>
-
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind" alt="React, Vite, Bootstrap and Tailwind CSS" />
-</p>
-
-### Backend Development & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgres" alt="Node.js, Express, FastAPI, MongoDB, MySQL and PostgreSQL" />
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Git, GitHub, VS Code, Postman and Figma" />
-</p>
-
-### AI & Data
-- Python for scripting and data-related tasks
-- SQL for querying and working with relational data
-- LLM APIs and AI-powered application development
+| | |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| **AI** | LLM APIs, AI-powered app development, Python for scripting and data work |
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vetrans&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vetrans&theme=github-dark&hide_border=true" height="165" alt="GitHub contribution streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vetrans&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" alt="Most used programming languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Vetrans&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="160" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vetrans&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160" alt="Top languages" />
 
----
+<img src="https://streak-stats.demolab.com/?user=Vetrans&theme=github-dark&hide_border=true" height="150" alt="Contribution streak" />
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/hrishabh3002">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/hrishabhdu26536">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://www.leetcode.com/rishi">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="mailto:hrishabh.dubeyoswal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <i>"Build with curiosity. Engineer with purpose. Improve with every iteration."</i>
-</p>
+<div align="center">
+
+*Build with curiosity. Engineer with purpose. Improve with every iteration.*
+
+</div>
